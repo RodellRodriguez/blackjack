@@ -1,5 +1,5 @@
 # blackjack
-Simple Blackjack game in Python.
+Simple Blackjack game in Python to practice OOP.
 
 Must launch the blackjack.py to start the game.
 
